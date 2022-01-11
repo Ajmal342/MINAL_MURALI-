@@ -1,5 +1,5 @@
-
-    "name": "minal murali",
+{
+    "name": "Minal murali",
     "description": "A Filter Bot Which Doesnt Need Manuall Filter Adding",
     "logo": "https://telegra.ph/file/5de161badebdf94d8551d.jpg",
     "keywords": [
@@ -7,8 +7,8 @@
         "Filter",
         "Mongo DB"
     ],
-    "website": "https://github.com/Ajmal342",
-    "repository": "https://github.com/Ajmal342/MINAL_MURALI-",
+    "website": "https://github.com/MRK-YT",
+    "repository": "https://github.com/MRK-YT/Pro-Auto-Filter-Bot",
     "success_url": "https://telegram.dog/mo_tech_yt/26",
     "env": {
         "APP_ID": {
