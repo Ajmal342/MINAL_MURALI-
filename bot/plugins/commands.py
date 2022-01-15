@@ -50,7 +50,7 @@ async def start(bot, update):
         InlineKeyboardButton('👩‍💻 𝙼𝚊𝚜𝚝𝚎𝚛', url='https://t.me/A_J_MODS'),
         InlineKeyboardButton('𝙷𝚎𝚕𝚙 🤔', callback_data="help")
     ],[
-        InlineKeyboardButton('🖥️ SUBSCRIBE NOW🖥️', url='https://youtube.com/channel/UCCKhIxVChqoEvfO6CrF_LfA')
+        InlineKeyboardButton('CHANNEL', url='https://t.me/filmfactorymainchannel')
     ],[
         InlineKeyboardButton('📢OFFICIAL GROUP', url='https://t.me/FILMFACTORYV1'),
         InlineKeyboardButton('𝚄𝚙𝚍𝚊𝚝𝚎𝚜 🤖', url='https://t.me/A_J_MODS')
